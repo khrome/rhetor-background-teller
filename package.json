@@ -1,0 +1,19 @@
+{
+  "name": "story-background-teller",
+  "version": "0.0.1",
+  "main": "background-teller.js",
+  "dependencies": {},
+  "peerDependencies": {
+    "story-teller": "^0.0.1"
+  },
+  "scripts": {
+    "dev": "webpack --mode development",
+    "prod": "webpack --mode production"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.0.1",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  }
+}
