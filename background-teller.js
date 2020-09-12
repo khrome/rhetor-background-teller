@@ -1,4 +1,4 @@
-var Teller = require('story-teller').Teller;
+var Teller = require('rhetor').Teller;
 var request;
 
 var BackgroundTeller = Teller.extend({
