@@ -3,7 +3,7 @@ module.exports = {
         main: './background-teller.js'
     },
     externals: {
-      'story-teller': 'StoryTeller'
+      'rhetor': 'Rhetor'
   },
     node: {
       fs: 'empty',

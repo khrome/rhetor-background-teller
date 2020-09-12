@@ -1,6 +1,6 @@
-Rhetor : CaptionTeller
+Rhetor : BackgroundTeller
 ==============
-A Component for [Rhetor](https://www.npmjs.com/package/rhetor) which displays a text overlay of the current focus.
+A Component for [Rhetor](https://www.npmjs.com/package/rhetor) which displays imagery based on the current focus content of the story
 
 Install
 -------
