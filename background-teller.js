@@ -51,8 +51,8 @@ var BackgroundTeller = Teller.extend({
         cb();
     }
 });
-if (typeof self !== 'undefined' && global.StoryTeller){
-    global.StoryTeller.BackgroundTeller = BackgroundTeller;
+if (typeof self !== 'undefined' && global.Rhetor){
+    global.Rhetor.BackgroundTeller = BackgroundTeller;
 }
 BackgroundTeller.setRequest = function(instance){
     request = instance;

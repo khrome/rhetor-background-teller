@@ -1,11 +1,11 @@
-StoryTeller : CaptionTeller
+Rhetor : CaptionTeller
 ==============
-A Component for [StoryTeller](https://www.npmjs.com/package/story-teller) which displays a text overlay of the current focus.
+A Component for [Rhetor](https://www.npmjs.com/package/rhetor) which displays a text overlay of the current focus.
 
 Install
 -------
 
-    npm install story-background-teller
+    npm install rhetor-background-teller
 
 Usage
 -----

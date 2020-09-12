@@ -1,14 +1,14 @@
 {
-  "name": "story-background-teller",
+  "name": "rhetor-background-teller",
   "version": "0.0.1",
   "main": "background-teller.js",
   "dependencies": {},
   "peerDependencies": {
-    "story-teller": "^0.0.1"
+    "rhetor": "^0.0.2"
   },
   "scripts": {
-    "dev": "webpack --mode development",
-    "prod": "webpack --mode production"
+    "pack-dev": "webpack --mode development",
+    "pack-prod": "webpack --mode production"
   },
   "devDependencies": {
     "chai": "^4.2.0",
